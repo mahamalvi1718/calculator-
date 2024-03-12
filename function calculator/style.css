@@ -1,0 +1,38 @@
+input{
+    width: 150px;
+    background: transparent;
+    border: none;
+}
+h1{
+    color: aliceblue;
+    padding-top: 10px;
+}
+.abc{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.def{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#two{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.main{
+    box-sizing: border-box;
+    width: 20%;
+    margin-top: 60px;
+    height: 350px;
+    border-radius: 10px;
+    background-color:  rgb(218, 19, 42);
+}
+button{
+    background-color: rgb(196, 76, 90);
+    color: aliceblue;
+    border: 2px solid rgb(196, 76, 90);
+}
+button:hover{
+    transform: scale(1.5);
+    background-color: rgb(82, 28, 34);
+}
